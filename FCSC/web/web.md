@@ -13,7 +13,7 @@ We arrive on a site composed of two pages: the first one is composed of a memes 
 After a few tries we realize that the site is vulnerable to XSS via this input. With this url
 ```https://gare-au-gorille.france-cybersecurity-challenge.fr/?search=XSS+attack``` it will display "XSS attack".
 
-En regardant l'activité réseau via l'inspecteur on s'aperçoit qu'il existe un token dans les cookie ("token=xxxxxxxx").
+Looking at the network activity via the inspector we see that there is a token in the cookie ("token=xxxxxxxx").
 
 Furthermore the flag page ```https://gare-au-gorille.france-cybersecurity-challenge.fr/flag```tells us "This page is only accessible by the administrator". So this is a test for stealing the administrator cookie.
 
