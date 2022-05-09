@@ -6,7 +6,7 @@
 
 ## Analysis
 
-On arrive sur un site composé de deux pages : la première est composé d'une collection de memes et d'une input search et la deuxième d'un formulaire de report.
+We arrive on a site composed of two pages: the first one is composed of a collection of memes and an input search and the second one of a report form.
 
 We arrive on a site composed of two pages: the first one is composed of a memes collection and an input search and the second one of a report form.
 
